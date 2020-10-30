@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Creature
+comment1.params=maxPossibleStrength\ maxPossibleHealth
+comment1.target=Creature(int,\ int)
+comment10.params=
+comment10.target=int\ getHealth()
+comment2.params=minPossibleStrength\ maxPossibleStrength\ minPossibleHealth\ maxPossibleHealth
+comment2.target=Creature(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int\ calcAttackValue()
+comment4.params=attackValue
+comment4.target=void\ setAttackValue(int)
+comment5.params=
+comment5.target=int\ getAttackValue()
+comment6.params=
+comment6.target=int\ getStrength()
+comment7.params=amount
+comment7.target=void\ reduceHealthBy(int)
+comment8.params=
+comment8.target=boolean\ isDead()
+comment9.params=health
+comment9.target=void\ setHealth(int)
+numComments=11

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Hero
+comment1.params=name
+comment1.target=Hero(java.lang.String)
+comment2.params=monster\ fight
+comment2.target=void\ attack(Monster,\ de.friedrichk.game.Fight)
+comment3.params=
+comment3.target=int\ calcAttackValue()
+comment4.params=weapon
+comment4.target=void\ setWeapon(de.friedrichk.object.Weapon)
+comment5.params=
+comment5.target=void\ printWeaponSummary()
+comment6.params=
+comment6.target=void\ printSummary()
+comment7.params=
+comment7.target=boolean\ isWizard()
+comment8.params=
+comment8.target=void\ printSpecialSummary()
+comment9.params=
+comment9.target=java.lang.String\ getName()
+numComments=10

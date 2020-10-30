@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Warrior
+comment1.params=name
+comment1.target=Warrior(java.lang.String)
+comment2.params=
+comment2.target=int\ calcAttackValue()
+comment3.params=
+comment3.target=void\ printSpecialSummary()
+comment4.params=
+comment4.target=boolean\ isWizard()
+numComments=5
