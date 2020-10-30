@@ -3,5 +3,5 @@ comment0.target=Fight
 comment1.params=
 comment1.target=Fight()
 comment2.params=hero\ monster
-comment2.target=void\ startFight(de.friedrichk.creature.Hero,\ de.friedrichk.creature.Monster)
+comment2.target=void\ startFight(de.friedrichk.de.friedrichk.creature.Hero,\ de.friedrichk.de.friedrichk.creature.Monster)
 numComments=3
